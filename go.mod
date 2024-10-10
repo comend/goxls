@@ -1,4 +1,4 @@
-module github.com/bingoohuang/goxls
+module github.com/comend/goxls
 
 go 1.14
 
